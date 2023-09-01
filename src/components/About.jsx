@@ -14,32 +14,27 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-2">
-        I  am Aryan Raj, a final year Mechanical 
+        I  am Dhara Sharma, a final year Mechanical 
         UG at IIT Kanpur. My diverse interests 
         have led me to explore various fields. 
-        I am passionate about full stack web 
-        development, WEB3.0, blockchain, 
-        and cryptography, and I combine these
+        I am passionate about Product Management, front-end web 
+        development, Data Science, Machine Learning, DSA, and I combine these
         skills with my core mechanical expertise.
-        As a coordinator in the Aeromodelling club and a member of 
-        the IITK Motorsports team, I gained hands-on
-        experience in building RC planes and designing
-        a formula electric car.
 
         </p>
 
         <br />
 
         <p className="text-xl">
-        During my internship at JSW Steel, 
-        I showcased my operational and supply chain
-        skills and successfully achieved a 100% improvement 
-        in iron oxide dispatch and made significant enhancements
-        to the supply chain processes.<br/> <br/>
+        During my internship at Tata Steel, 
+        I showcased my operational and analytical
+        skills and successfully improved the reliability 
+        of Mair Threading and Socketing line in ST finishing 
+        area by reducing the damage cost from 3-4 lacs to 2k INR.<br/> <br/>
         With my knowledge in web development, 
-        blockchain, and cryptography, coupled 
+        Data Science, DSA coupled 
         with my experience in mechanical engineering 
-        and EVs, I am well-prepared to explore 
+        , I am well-prepared to explore 
         innovative solutions at the intersection
         of these domains.
         </p>

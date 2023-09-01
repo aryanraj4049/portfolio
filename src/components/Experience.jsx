@@ -1,12 +1,12 @@
 import React from "react";
 
 import dsa from "../assets/dsa.png"
-import node from "../assets/nodejs.png";
+import numpy from "../assets/numpy.png";
 import javascript from "../assets/javascript.png";
 import reactImage from "../assets/react.png";
 import matlab from "../assets/matlab.jpg";
 import cad from "../assets/cad.jpg";
-import blockchain from "../assets/blockchain.jpg";
+import panda from "../assets/panda.png";
 import cpp from "../assets/cpp.png"
 import sql from "../assets/sql.png"
 
@@ -38,8 +38,8 @@ const Experience = () => {
     },
     {
       id: 5,
-      src: node,
-      title: "NodeJs",
+      src: numpy,
+      title: "Numpy",
       style: "shadow-green-400",
     },
     {
@@ -50,8 +50,8 @@ const Experience = () => {
     },
     {
       id: 7,
-      src: blockchain,
-      title: "Blockchain",
+      src: panda,
+      title: "Pandas",
       style: "shadow-blue-600",
     },
 

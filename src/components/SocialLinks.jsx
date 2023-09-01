@@ -12,7 +12,7 @@ const SocialLinks = () => {
           LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href: "https://www.linkedin.com/in/aryanraj4049/",
+      href: "https://www.linkedin.com/in/dharash20/",
       style: "rounded-tr-md",
     },
     {
@@ -22,7 +22,7 @@ const SocialLinks = () => {
           GitHub <FaGithub size={30} />
         </>
       ),
-      href: "https://github.com/aryanraj4049",
+      href: "https://github.com/dharash20",
     },
     {
       id: 3,
@@ -31,7 +31,7 @@ const SocialLinks = () => {
           Mail <HiOutlineMail size={30} />
         </>
       ),
-      href: "mailto:aryanr20@iitk.ac.in",
+      href: "mailto:dharash20@iitk.ac.in",
     },
     {
       id: 4,

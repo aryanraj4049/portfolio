@@ -1,20 +1,20 @@
 import React from "react";
-import reactSmooth from "../assets/portfolio/jsw.png";
+import tata from "../assets/portfolio/tata.png";
 import aeromod from "../assets/portfolio/aeromod.png";
-import robot from "../assets/portfolio/robot1.jpg";
-import web3 from "../assets/portfolio/web3.jpg";
-import car1 from "../assets/portfolio/car2.jpeg";
-import motor from "../assets/portfolio/motor2.png";
+import imagep from "../assets/portfolio/ipcv.jpg";
+import wom from "../assets/portfolio/wom.png";
+import algo from "../assets/portfolio/algo101x.png";
+import disloc from "../assets/portfolio/dislocation.png";
 
 const Portfolio = () => {
   const portfolios = [
     {
       id: 1,
-      src: reactSmooth,
+      src: tata,
       pptText: "PPT",
       docText: "DOC",
-      docLink: "https://docs.google.com/document/d/1DrWs7rwFmNBb0Nu4jLkKuYiSGhbo5dwDiSgskTSHohE/edit",
-      pptLink: "https://onedrive.live.com/edit.aspx?resid=B5E76D65E0588E51!146&ithint=file%2cpptx&ct=1691677722299&wdOrigin=OFFICECOM-WEB.MAIN.EDGEWORTH&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=1a9f75e5-50ad-4189-bd62-154a6514d73b&wdo=2"
+      docLink: "https://docs.google.com/presentation/d/1utX9OU2eHNfwCxdIaKJ3SfgMNn0oCnh4/edit#slide=id.p1",
+      pptLink: "https://docs.google.com/presentation/d/1utX9OU2eHNfwCxdIaKJ3SfgMNn0oCnh4/edit#slide=id.p1"
     },
     {
       id: 2,
@@ -26,35 +26,35 @@ const Portfolio = () => {
     },
     {
       id: 3,
-      src: robot,
+      src: imagep,
       pptText: "REPORT",
       docText: "CODE",
-      docLink: "https://github.com/aryanraj4049/robot_motion_planning",
-      pptLink: "https://github.com/aryanraj4049/robot_motion_planning/tree/main/Code"
+      docLink: "https://github.com/dharash20/Image_processing_and_Computer_Vision_using_python",
+      pptLink: "https://github.com/dharash20/Image_processing_and_Computer_Vision_using_python"
     },
     {
       id: 4,
-      src: web3,
-      pptText: "CODE",
-      docText: "REPORT",
-      docLink: "https://onedrive.live.com/edit.aspx?resid=8933FBCD5EEF8F58!539&ithint=file%2cdocx&wdo=2&authkey=!AJ2sWlSdvjLVrio",
-      pptLink: "https://github.com/aryanraj4049/WEB_3.O"
+      src: wom,
+      pptText: "DOC",
+      docText: "PPT",
+      docLink: "https://github.com/dharash20/Women_of_Mettle_6",
+      pptLink: "https://github.com/dharash20/Women_of_Mettle_6"
     },
     {
       id: 5,
-      src: car1,
+      src: algo,
       pptText: "PPT",
       docText: "CODE",
-      docLink: "https://github.com/aryanraj4049/radiatormatlab",
-      pptLink: "https://docs.google.com/presentation/d/1UMfaDDEFD-nnU1XU3878_YBo9XTcZ1TmhIi1UcHUpFM/edit#slide=id.p"
+      docLink: "",
+      pptLink: ""
     },
     {
       id: 6,
-      src: motor,
+      src: disloc,
       pptText: "PPT",
       docText: "CODE",
-      docLink: "https://docs.google.com/presentation/d/1fAMpC0eEE0eFAr7Mb-xPN-47G9Pz71kIYJqIBemQ3GE/edit#slide=id.g1042aa19e59_0_10",
-      pptLink: "https://docs.google.com/presentation/d/1fAMpC0eEE0eFAr7Mb-xPN-47G9Pz71kIYJqIBemQ3GE/edit#slide=id.p"
+      docLink: "https://github.com/dharash20/Dislocation-Dynamics",
+      pptLink: "https://github.com/dharash20/Dislocation-Dynamics"
     },
   ];
 

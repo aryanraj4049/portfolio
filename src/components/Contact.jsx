@@ -22,20 +22,20 @@ const Contact = () => {
 
         <div className=" flex justify-center items-center">
           <form
-            action="https://getform.io/f/f23cfed4-06c4-4f77-ad82-2c6a85d5342b"
+            action="https://getform.io/f/67082c54-3b5b-418e-9ad1-5791876d7f19"
             method="POST"
             className=" flex flex-col w-full md:w-1/2"
           >
             <input
               type="text"
               name="name"
-              placeholder="Enter your name// Can be annononymous"
+              placeholder="Enter your name"
               className="p-2 bg-transparent border-2 rounded-md text-white focus:outline-none"
             />
             <input
               type="text"
               name="email"
-              placeholder="Enter your email// Can be annononymous"
+              placeholder="Enter your email"
               className="my-4 p-2 bg-transparent border-2 rounded-md text-white focus:outline-none"
             />
             <textarea

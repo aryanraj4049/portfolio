@@ -4,7 +4,7 @@ import "./index.css";
 import App from "./App";
 
 let docTitle = document.title;
-window.addEventListener("blur",()=>{document.title="Jaldi Yaha Aao";});
+window.addEventListener("blur",()=>{document.title="Wating....";});
 window.addEventListener("focus",() =>{ document.title =docTitle;});
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
